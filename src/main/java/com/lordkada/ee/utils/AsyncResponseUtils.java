@@ -1,5 +1,4 @@
-package com.lordkada;
-
+package com.lordkada.ee.utils;
 
 import javax.ws.rs.container.AsyncResponse;
 import javax.ws.rs.core.Response;
